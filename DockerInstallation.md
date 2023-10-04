@@ -15,7 +15,7 @@ pip install docker
 docker version on my system:
 
 
-![alt docker version](./images/docker-version.png)
+![alt docker version](dockversion.png)
 
 ## Install Docker Compose
 ``` sh
